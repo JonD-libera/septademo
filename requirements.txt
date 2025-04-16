@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+redis
+python-multipart
+fastkml
+shapely
+geopy
+requests
+prometheus_fastapi_instrumentator
+gunicorn
