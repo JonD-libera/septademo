@@ -1,0 +1,7 @@
+
+REDIS_HOST = "localhost"
+REDIS_PORT = 6379
+RATE_LIMIT = 100
+RATE_WINDOW = 6
+KMZ_FILE_PATH = "stations.kmzl"
+USE_AUTH = False
